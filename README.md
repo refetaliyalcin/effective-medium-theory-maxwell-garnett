@@ -1,5 +1,4 @@
 # effective-medium-theory-maxwell-garnett
-Solution of Maxwell Garnett effective medium theory. Takes volume fraction and refractive indices of pigment and host as inputs. Gives refractive index of the effective medium as the output
 
 maxwell.m file is a function value. Takes 5 value; 
 1-volume fraction
