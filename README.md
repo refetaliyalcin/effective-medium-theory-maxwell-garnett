@@ -1,6 +1,7 @@
 # effective-medium-theory-maxwell-garnett
 # Yalçin, R. A., & Ertürk, H. (2018). Inverse Design of Spectrally Selective Thickness Sensitive Pigmented Coatings for Solar Thermal Applications. Journal of Solar Energy Engineering, 140(3), 031006. doi:10.1115/1.4039276 
-# doi:10.1115/1.4039276 
+# https://doi.org/10.1115/1.4039276 
+
 
 maxwell.m file is a function value. Takes 5 value; 
 1-volume fraction
