@@ -3,14 +3,14 @@
 # https://doi.org/10.1115/1.4039276 
 
 
-maxwell.m file is a function value. Takes 5 value; 
+maxwell.m file is a function and it takes five inputs; 
 1-volume fraction
-2-real refractive index of pigment 
-3-imaginary refractive index of pigment 
-4-real refractive index of medium 
-5-imaginary refractive index of medium
+2-real refractive index of the pigment 
+3-imaginary refractive index of the pigment 
+4-real refractive index of the medium 
+5-imaginary refractive index of the medium
 
-gives outputs
+gives two outputs
 1-real refractive index of effective medium 
 2-imaginary refractive index of effective medium 
 
